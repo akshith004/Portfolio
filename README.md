@@ -17,7 +17,7 @@ This is my **portfolio website** showcasing my profile, skills, projects, and co
 - Google Fonts & Font Awesome
 
 ## 🔗 Live Demo
-[Click to view](https://your-github-username.github.io/portfolio)
+[Click to view](https://akshith-portfolio.netlify.app/)
 
 ## 📁 Folder Structure
 /index.html
